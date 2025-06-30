@@ -1,0 +1,5 @@
+endpoints:
+  - name: 'gigachat'
+    url: 'https://gigachat.devices.sberbank.ru/api/v1/'
+    model: 'Gigachat'
+    key: ''

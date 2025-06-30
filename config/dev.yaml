@@ -1,0 +1,8 @@
+endpoints:
+  - name: 'mock-llm'
+    url: 'http://localhost:8081/'
+    key: 'test-key'
+  - name: 'gigachat'
+    url: 'https://gigachat.devices.sberbank.ru/api/v1/'
+    model: 'Gigachat'
+    key: ''

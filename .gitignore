@@ -1,0 +1,9 @@
+/bin/
+
+.vscode
+.venv
+__pycache__
+.gitlab-ci-local
+coverage.out
+test-report.json
+~                          
